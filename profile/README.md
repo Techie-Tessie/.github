@@ -2,7 +2,7 @@
 
 # **Techie Tessie**
 
-Hi👋! Welcome to Techie Tessie. Our aim is to widespread the knowledge programming langauges. We believe that langauge should not be barrier, So we are producing content in different langauges. Let's collaboarate to acheive it.
+Hi👋! Welcome to Techie Tessie. Our aim is to make programming widespread and accessible. We believe that langauge should not be a barrier, so we are producing content in different langauges. Let's collaboarate to acheive it.
 
 <p align="left">
 <a href="mailto:techietessie@gmail.com" style="text-decoration:none">
