@@ -28,6 +28,6 @@ Hi👋! Welcome to Techie Tessie. Our aim is to make programming widespread and 
 
 ## Socials
    
-> Subscribe to our YouTube channel [here](https://www.youtube.com/channel/UCd4E0oe8MtnZu_48WvYeLMw)
+> Subscribe to our YouTube channel [here](https://www.youtube.com/c/TechieTessie)
 > Follow us on Instagram [here](https://www.instagram.com/techie_tessie)
 > Follow us on Twitter [here](https://twitter.com/techie_tessie)
