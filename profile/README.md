@@ -1,5 +1,3 @@
-![TT Banner](https://user-images.githubusercontent.com/72180173/147873805-2b3ea064-2966-4c41-9cdc-e221bad0c143.png)
-
 # **Techie Tessie**
 
 Hi👋! Welcome to Techie Tessie. Our aim is to make programming widespread and accessible. We believe that langauge should not be a barrier, so we are producing content in different langauges. Let's collaboarate to acheive it.
