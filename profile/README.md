@@ -22,10 +22,3 @@ Hi👋! Welcome to Techie Tessie. Our aim is to make programming widespread and 
   <img height="30" src = "https://img.shields.io/badge/YouTube-%23E20036.svg?&style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
 <br />
-
-
-## Socials
-   
-> Subscribe to our YouTube channel [here](https://www.youtube.com/c/TechieTessie)
-> Follow us on Instagram [here](https://www.instagram.com/techie_tessie)
-> Follow us on Twitter [here](https://twitter.com/techie_tessie)
