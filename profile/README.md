@@ -1,7 +1,6 @@
 # **Techie Tessie**
 
-Hi👋! Welcome to Techie Tessie. Our aim is to make programming widespread and accessible. We believe that langauge should not be a barrier, so we are producing content in different langauges. Let's collaboarate to acheive it.
-
+Hi👋 Welcome to Techie Tessie! We help international students learn how to code. Find us on YouTube and change your life!
 <p align="left">
 <a href="mailto:techietessie@gmail.com" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
